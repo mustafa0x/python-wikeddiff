@@ -8,7 +8,7 @@ setup(
     author_email="j.l.k@gmx.com",
     url="https://github.com/lahwaacz/python-wikeddiff",
     license="GPLv3",
-    packages=["WikEdDiff"],
+    packages=["wiked_diff"],
     scripts=["wikeddiff"],
     install_requires=["namedlist"]
 )

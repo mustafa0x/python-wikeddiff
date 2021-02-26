@@ -3,7 +3,7 @@
 import argparse
 import logging
 
-from WikEdDiff import *
+from wiked_diff import *
 
 def setTerminalLogging(level=logging.DEBUG):
     # create console handler and set level
